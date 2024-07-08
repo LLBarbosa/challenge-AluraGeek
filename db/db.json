@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fender Stratocaster",
+      "price": 1000.00,
+      "img": "../img/fender.png"
+    },
+    {
+      "id": 2,
+      "name": "Gibson LesPaul",
+      "price": 1600.00,
+      "img": "../img/gibson.png"
+    },
+    {
+      "id": 3,
+      "name": "Fender Telecaster",
+      "price": 1200.00,
+      "img": "../img/telecaster.png"
+    },
+
+    {
+      "id": 4,
+      "name": "Ibanez Iceman",
+      "price": 800.00,
+      "img": "../img/ibanez-iceman.png"
+
+
+
+    },
+
+    {
+      "id": 5,
+      "name": "Jackson Dinky",
+      "price": 900.00,
+      "img": "../img/jackson-dinky.png"
+
+
+
+    },
+
+    {
+      "id": 6,
+      "name": "ESP Guitar",
+      "price": 1100.00,
+      "img": "../img/esp-guitar.png"
+
+
+
+    }
+  ]
+}
