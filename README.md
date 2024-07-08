@@ -17,6 +17,7 @@ Para facilitar o uso da aplicação, deixarei uma cópia do arquivo *db.json*. A
 
 {
   "products": [
+   
     {
       "id": 1,
       "name": "Fender Stratocaster",
